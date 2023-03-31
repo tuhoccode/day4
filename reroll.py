@@ -1,0 +1,1 @@
+print("bay gio la 5h sang t can di ngu")

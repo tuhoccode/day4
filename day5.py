@@ -1,0 +1,1 @@
+print("t vui qua")
